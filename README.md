@@ -29,6 +29,8 @@
 5 - Finally open "PsychoseC2.exe" (if it doesn't work open it in "PsychoseC2" File -> PsychoseC2.exe or add this when you are in the PsychoseC2 file -> \PsychoseC2
 ``
 <br>
+``5bis - If path is not same just open "PyschoseC2" containing all ressources and the ".exe"``
+<br>
 ![image](https://user-images.githubusercontent.com/116169179/196687044-c74cb6e3-aea8-4b43-bb8f-79e94c3e3338.png)
 <br>
 ![image](https://user-images.githubusercontent.com/116169179/196688178-977884f6-a9c7-4c19-a512-840af6a5e3b9.png)
