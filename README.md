@@ -6,7 +6,7 @@
 
 **Setup :**<br><br>
 ``
-1 - Extract the file from winrar
+1 - Extract the files from winrar (first install setup files then Psychose or he'll doesn't work)
 ``
 <br>
 ``
